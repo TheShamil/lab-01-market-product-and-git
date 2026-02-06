@@ -67,3 +67,90 @@ Across these diverse roles, several technical and "soft" skills are universally 
 - **Containerization (Docker/Kubernetes)**: Most modern services are deployed in containers, requiring all engineering roles to understand how they are packaged and orchestrated.
 
 - **Communication & Systems Thinking**: The ability to understand how a change in one component (e.g., the mobile app) affects another (e.g., the database) is critical for troubleshooting and design.
+
+## My chosen role
+
+<Backend>
+
+### Skills I already have
+
+- Go
+- GitHub
+- TCP/IP
+
+### Skills I clearly lack
+
+- Kubernetes
+- Cloud technologies.
+- Event-Driven Architecture.
+- Database Scalability.
+
+## 5. Research job postings
+
+Below are 5 representative job postings for Backend Engineers with a focus on Go and distributed systems:
+
+1. **Senior Backend Developer (Go) Kubernetes**
+
+    - **Link:** [Cloud.ru on HH.ru](https://hh.ru/vacancy/87604140)
+
+    - **Key Skills:** Go (Golang), Kubernetes, 3–6 years experience, microservices architecture.
+
+2. **Go (Golang) Backend Developer (Highload)**
+
+    - **Link:** [Evrone.ru on HH.ru](https://hh.ru/vacancy/75887385)
+
+    - **Key Skills:** High-load system design, Go, architectural patterns, optimization for high throughput.
+
+3. **Senior Golang Engineer (Public Gateway)**
+
+    - **Link:** [TMT on Rabota.by](https://hh.ru/vacancy/129410740)
+
+    - **Key Skills:** AWS (EKS, Kafka, SQS), MongoDB/Couchbase, rate limiting and authentication patterns, Prometheus/Grafana.
+
+4. **Senior Go Developer / Старший Go программист**
+
+    - **Link:** [IP Kuzminova on HH.ru](https://hh.ru/vacancies/senior-golang-developer)
+
+    - **Key Skills:** Distributed systems, Go, REST/gRPC API design, performance profiling.
+
+5. **Middle+/Senior Golang Developer**
+
+    - **Link:** [X5 Tech on HH.ru](https://hh.ru/vacancies/golang-razrabotchik)
+
+    - **Key Skills:** PostgreSQL, Docker, unit testing, integration with message brokers (Kafka/RabbitMQ).
+
+---
+
+## 6. Document job market snapshot
+
+_Update your `docs/roles-and-skills.md` with the following:_
+
+### Skills that appear in several postings
+
+- **Go (Golang)**: The primary language for modern, high-concurrency backend services.
+
+- **Kubernetes (K8s)**: Essential for container orchestration and managing microservices at scale.
+
+- **Message Brokers (Kafka/RabbitMQ)**: Required for asynchronous communication and event-driven architectures.
+
+- **Distributed Databases**: Experience with both SQL (PostgreSQL) and NoSQL (MongoDB, Redis) systems.
+
+### Skills specific to a single posting
+
+- **Fintech Security Patterns**: Specific requirements for rate limiting and secure money transfer protocols (TMT posting).
+
+- **Blockchain Integration**: Some specialized Go roles require knowledge of smart contracts or blockchain nodes.
+
+- **Couchbase**: While NoSQL is common, specific document stores like Couchbase appear in niche high-load roles.
+
+---
+
+## 7. Personal reflection
+
+_(Note: As per your instructions, this section is for **your** own reflection. Here are the prompts to guide your writing without an LLM generating the content for you:)_
+
+- **Which role did I choose and why?** (Think about your interest in the Telegram backend logic you just analyzed).
+
+- **How does my skillset compare to the market demands?** (Compare your "Skills I already have" like Go and TCP/IP against the "Skills specific to a single posting" or common skills like Kubernetes).
+
+- **Which one or two key skills for this role would I like to develop this semester and why?** (Focus on the gap you identified, such as Kubernetes or Cloud Technologies, to reach the "Senior" or "Highload" level seen in the job postings).
